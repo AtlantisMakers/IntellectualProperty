@@ -60,7 +60,7 @@ Any use, reproduction, or distribution of such derivatives without prior express
 
 ---
 
-## Content Summary
+## List of Protected Elements
 
 - **AtlantisMakers** – Name and derivatives
 - "**You Dream it, We make It**" – Slogan
@@ -78,6 +78,15 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - **AM-FilterBox** – Name and derivatives
 - **AtlantisMakers FilterBox** – Name and derivatives
 
+---
+
+## Update Validity
+
+Any addition, modification, or removal of an element within the "Protected Works" section is considered effective immediately upon the corresponding commit being recorded in this repository.
+
+Each commit timestamp constitutes a public and verifiable proof of the update's existence and date.
+
+---
 
 ## Contact
 
