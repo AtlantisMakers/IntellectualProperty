@@ -1,1 +1,49 @@
-# IntellectualProperty
+# intellectual property
+
+## Purpose
+
+This repository serves as an official, timestamped archive of original concepts, names, slogans, designs, and systems created by **AtlantisMakers**.
+
+It establishes public evidence of authorship and intellectual property as of the date of the initial commit, and subsequent documented updates.
+
+## Repository Information
+
+ ![Owner](https://img.shields.io/badge/Owner-AtlantisMakers-blue)
+ ![Creation Date](https://img.shields.io/badge/Created-26%20April%202025-blue)
+ ![Last Commit](https://img.shields.io/github/last-commit/AtlantisMakers/IntellectualProperty?label=Last%20Commit)
+
+## Intellectual Property
+
+All names, designs, slogans, systems, and concepts contained within this repository are the exclusive intellectual property of **AtlantisMakers**, protected under applicable national and international copyright and intellectual property laws.
+
+Unauthorized use, reproduction, distribution, or commercial exploitation of any content herein is strictly prohibited without express written consent of the owner.
+
+This repository constitutes timestamped proof of creation and ownership.
+
+## Content Summary
+
+- **AtlantisMakers** – Name and derivatives
+- "**You Dream it, We make It**" – Slogan
+- **AM-R-ONE** – Name and derivatives
+- **AtlantisMakers R-ONE** – Name and derivatives
+- **AM-L2P** – Name and derivatives
+- **AM - Ligne 2 Prod** – Name and derivatives
+- **AM - Ligne de Prod** – Name and derivatives
+- **Atlantis Makers - Ligne 2 Prod** – Name and derivatives
+- **Atlantis Makers - Ligne 2 Prod** – Name and derivatives
+- **Atlantis Makers - L2P** – Name and derivatives
+- **Mina** – Name and derivatives
+- **Vulture** – Name and derivatives
+- **RozyPocket** – Name and derivatives
+- **AM-FilterBox** – Name and derivatives
+- **AtlantisMakers FilterBox** – Name and derivatives
+
+
+## Contact
+
+For any inquiries regarding the use or licensing of these concepts:
+- Owner: [AtlantisMakers](https://github.com/AtlantisMakers)
+
+---
+
+© 2025 - AtlantisMakers – All rights reserved.
