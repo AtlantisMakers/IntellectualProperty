@@ -77,6 +77,11 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - **RozyPocket** – Name and derivatives
 - **AM-FilterBox** – Name and derivatives
 - **AtlantisMakers FilterBox** – Name and derivatives
+- **AtlantisTech** - Name and derivatives
+- **AtlantisDevs** - Name and derivatives
+- **AtlantisGroup** - Name and derivatives
+- "**Our Technology, your usage**" - Slogan
+- "**a Software, a Solution**" - Slogan
 
 ---
 
