@@ -82,6 +82,7 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - **AtlantisGroup** - Name and derivatives
 - "**Our Technology, your usage**" - Slogan
 - "**a Software, a Solution**" - Slogan
+- "**Where Imagination isn't a limit anymore**" - Slogan
 
 ---
 
