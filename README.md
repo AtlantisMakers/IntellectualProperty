@@ -85,6 +85,9 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - "**Where Imagination isn't a limit anymore**" - Slogan
 - "**AtlantisGames**" - Name and derivatives
 - "**Nocteus Production**" - Name and Derivatives
+- "**SunFlare**" - Name and derivatives
+- "**WhiteStar**" - Name and derivatives 
+- "**BlackHole**" - Name and derivatives
 ---
 
 ## Update Validity
